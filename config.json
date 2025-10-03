@@ -1,0 +1,10 @@
+{
+	"vocabulary_paths": [
+		"$PYTHONPATH"
+	],
+	"ignore_files": [
+		"$PYTHONPATH/config.json"
+	],
+	"resume_file": "$PYTHONPATH/_resume_.json",
+	"save_path": "$PYTHONPATH"
+}
